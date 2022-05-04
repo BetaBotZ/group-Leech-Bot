@@ -167,6 +167,8 @@
 
     
 ## CREDITS
+    
+  [FORKED](https://github.com/MaxxRider/Leech-Pro)
 
  - [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
  - [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
